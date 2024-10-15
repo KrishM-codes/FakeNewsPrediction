@@ -28,7 +28,7 @@ This project aims to detect fake news based on text data using machine learning 
 3. Modify the notebook if needed for experimentation or use it as a base for similar projects.
 
 ## Model Performance
-- Achieved an accuracy of **97.99%** on the test data.
+- Achieved an accuracy of **97.91%** on the test data.
 
 ## How It Works
 1. **Data Preprocessing:** Cleans the text data by removing punctuation, stopwords, and performing stemming to reduce words to their root forms.
