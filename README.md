@@ -37,7 +37,8 @@ This project aims to detect fake news based on text data using machine learning 
 4. **Prediction:** Predicts the label (real or fake) for new news titles and author names.
 
 ## Results
-- Insert examples of predictions here if desired, or a sample confusion matrix to show the performance.
+![image](https://github.com/user-attachments/assets/408642cc-6c07-4e5f-be46-72d7725dce23)
+
 
 ## Contributing
 Feel free to fork this repository, create a new branch, and submit a pull request for any improvements.
