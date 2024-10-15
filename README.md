@@ -43,11 +43,5 @@ This project aims to detect fake news based on text data using machine learning 
 Feel free to fork this repository, create a new branch, and submit a pull request for any improvements.
 
 ## Acknowledgments
-- The dataset used in this project was sourced from @misc{fake-news,
-    author = {William Lifferth},
-    title = {Fake News},
-    publisher = {Kaggle},
-    year = {2018},
-    url = {https://kaggle.com/competitions/fake-news}
-}.
+- The dataset used in this project was sourced from {https://kaggle.com/competitions/fake-news}.
 - Special thanks to the open-source community for providing useful tools and libraries.
